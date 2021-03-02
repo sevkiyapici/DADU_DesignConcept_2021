@@ -9,7 +9,20 @@ ___
 
 [GitHub](https://github.com/)  
 
+[etherpad: DesignConcept_2021](https://etherpad.opendev.org/p/DesignConcept_2021)  
+
+[ml5js.org](https://ml5js.org)  
 ___
+
+### riferimenti
+[openprocessing.org](https://openprocessing.org)  
+[creativeapplications.net](http://www.creativeapplications.net)  
+[inconvergent.net/generative/](https://inconvergent.net/generative/)  
+[generative-gestaltung.de/2/](http://www.generative-gestaltung.de/2/)  
+
+### riferimenti bibliografici
+- Processing: *A Programming Handbook for Visual Designers and Artists Hardcover* – December 19, 2014. (2020). the Mit Press; second edition edition (december 19, 2014).
+- Benedikt Gross, Hartmut Bohnacker, Claudius Lazzeroni: *Generative Design: Visualize, Program, and Create with JavaScript in p5.js* – Princeton Architectural Press -2018
 
 ### introduzione
 Le risposte progettuali ai problemi di comunicazione assumono sempre più spesso le caratteristiche di un “sistema” e solo raramente si limitano alla messa a punto di un unico artefatto comunicativo.
@@ -24,3 +37,23 @@ In questo contesto, i linguaggi formali di programmazione creativa si sono conso
 
 ### Obiettivi del corso
 L’obiettivo del corso sarà quello di offrire una prima introduzione alla programmazione creativa orientata al “visual design”, rompere possibili reticenze iniziali e offrire agli studenti una massa critica iniziale sufficiente per poter eventualmente acquisire, in modo autonomo, le competenze necessarie per una completa fruizione di questi strumenti.  
+
+### Interventi formativi
+Il corso si articola su tre modalità di interventi formativi
+
+- lezioni ex-cathedra 
+Un breve ciclo di comunicazioni per fornire agli studenti alcuni   concetti chiave per la definizione di un marco teorico di riferimento, suggerire letture e approfondimenti e contestualizzare la materia attraverso l’analisi di alcuni casi di studio notevoli.
+
+- sessioni strumentali / esercizi guidati
+Ciclo di sessioni strumentali ed esercizi guidati per una introduzione pratica alla programmazione creativa per mezzo di p5.js, che affronterà i seguenti temi:
+
+0) introduzione alle modalità di edizione on-line (p5 editor) e strumenti collaborativi (Git Hub)
+1) primitive geometriche 
+2) variabili e funzioni
+3) classi e programmazione orientata a oggetti
+4) tecniche ed algoritmi di generazione formale
+
+- progetto di sintesi finale
+Elaborazione, in piccoli gruppi di lavoro, di un progetto di sintesi finale – con particolare enfasi sugli aspetti di tipo metodologico.
+
+
