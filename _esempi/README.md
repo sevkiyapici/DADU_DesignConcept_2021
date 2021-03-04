@@ -1,5 +1,5 @@
 ### introduzione
-<br/>
+
 [è Bologna](http://ebologna.it/)  
 [Flowers](https://openprocessing.org/sketch/891937)  
 [Messy Curve Draw](https://www.openprocessing.org/sketch/486307)  
