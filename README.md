@@ -12,7 +12,7 @@ ___
 [Visual Studio Code](https://code.visualstudio.com/)  
 
 [GitHub](https://github.com/)  
-[sourcetree](https://www.sourcetreeapp.com)  
+[Sourcetree](https://www.sourcetreeapp.com)  
 
 [ml5js.org](https://ml5js.org)  
 
@@ -23,7 +23,8 @@ Concetti chiave / *key concepts*
 
 Git, GitHub, Repository, Commit, Branch, Pull Request, Issue, Merge, Fork.  
 
-Daniel Shiffman [the coding train: GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+Daniel Shiffman [the coding train: GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)  
+[Guida a Git-hub](https://vixr.it/guida-a-github-in-italiano-come-si-usa-git-e-cosa-e-github/)
 
 ___
 
