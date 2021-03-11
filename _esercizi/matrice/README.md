@@ -10,4 +10,5 @@ Bruno Munari [curve di Peano](https://www.google.com/search?q=munari+peano+curve
 
 ***
 
-![mutations](https://github.com/alfredocalosci/DADU_DesignConcept_2021/tree/main/_esercizi/matrice/img/leParc_mutations.png)
+
+![mutations](img/leParc_mutations.png?raw=true)
