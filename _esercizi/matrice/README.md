@@ -10,9 +10,5 @@ Bruno Munari [curve di Peano](https://www.google.com/search?q=munari+peano+curve
 
 ***
 
-<<<<<<< HEAD
-
-![mutations](img/leParc_mutations.png?raw=true)![mutations](img/leParc_mutations.png?raw=true)
-=======
 ![mutations](img/leParc_mutations.png?raw=true)
->>>>>>> a7f5ae8035b188264d435d90622057c1c285fdce
+
