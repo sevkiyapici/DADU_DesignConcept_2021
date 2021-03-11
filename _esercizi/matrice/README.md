@@ -15,6 +15,11 @@ Bruno Munari [curve di Peano](https://www.google.com/search?q=munari+peano+curve
 ***
 
 ![mutations](img/leParc_mutations.png?raw=true)
+![translations](img/leParc_Translational-Rotation-1959.png)
 ![peano](img/Munari_peano.jpg)
 ![AH](img/Armin_Hofmann.jpg)
+![mohr](img/mohr_4.jpg)
+![vm](img/vera_title.jpg)
+![mohr](img/Nees.png)
+
 
